@@ -7,8 +7,8 @@
     "seed": "node -r dotenv/config ./scripts/seed.js"
   },
   "dependencies": {
-    "@heroicons/react": "^2.1.4",
-    "@tailwindcss/forms": "^0.5.7",
+    "@heroicons/react": "^2.1.5",
+    "@tailwindcss/forms": "^0.5.9",
     "@vercel/postgres": "^0.10.0",
     "autoprefixer": "10.4.19",
     "axios": "^1.7.7",
@@ -23,13 +23,13 @@
     "postgres": "^3.4.4",
     "react": "19.0.0-rc-f38c22b244-20240704",
     "react-dom": "19.0.0-rc-f38c22b244-20240704",
-    "socket.io": "^4.7.5",
+    "socket.io": "^4.8.0",
     "socket.io-client": "^4.8.0",
     "socketio": "^1.0.0",
     "sweetalert2": "^11.14.1",
     "tailwindcss": "3.4.4",
     "typescript": "5.5.2",
-    "use-debounce": "^10.0.1",
+    "use-debounce": "^10.0.3",
     "zod": "^3.23.8"
   },
   "devDependencies": {
